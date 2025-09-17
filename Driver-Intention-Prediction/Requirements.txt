@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
+scipy
+pip install -r requirements.txt
